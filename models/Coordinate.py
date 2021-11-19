@@ -4,4 +4,4 @@ class Coordinate():
         self.y = y
 
     def __repr__(self):
-        return f'Coordinate: x = {self.x}, y = {self.y}'
+        return f'Coordinate(x={self.x}, y={self.y})'
