@@ -1,6 +1,0 @@
-DATA_DISTANCE = 'dataset/distance.txt'
-DATA_COST = 'dataset/cost.txt'
-POPULATION_SIZE = 10
-NUM_GENERATIONS = 100
-P_CROSSOVER = 0.7
-P_MUTATION = 0.1
